@@ -6,5 +6,5 @@ Our Goal was to create an application to showcase the work of both Claudia Pagua
 
 ## Roles 
 
-UX/UI and Logo Designer: Jaclyn Flomen
+UX/UI and Logo Designer: Jaclyn Flomen 
 Developer: Claudia Paguaga 
